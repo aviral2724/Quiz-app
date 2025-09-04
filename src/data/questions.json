@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "answer": "Paris"
+  },
+  {
+    "question": "Which language runs in a web browser?",
+    "options": ["Python", "C", "JavaScript", "Java"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Van Gogh", "Da Vinci", "Picasso", "Rembrandt"],
+    "answer": "Da Vinci"
+  },
+  {
+    "question": "Which is the largest planet in our solar system?",
+    "options": ["Earth", "Jupiter", "Saturn", "Mars"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is the boiling point of water?",
+    "options": ["100°C", "90°C", "80°C", "120°C"],
+    "answer": "100°C"
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": ["Oxygen", "Gold", "Osmium", "Opal"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "options": ["Newton", "Einstein", "Galileo", "Kepler"],
+    "answer": "Newton"
+  },
+  {
+    "question": "Which country invented tea?",
+    "options": ["India", "China", "Japan", "England"],
+    "answer": "China"
+  },
+  {
+    "question": "Which gas do humans need to survive?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "Which year did World War II end?",
+    "options": ["1945", "1939", "1918", "1955"],
+    "answer": "1945"
+  }
+]
